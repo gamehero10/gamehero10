@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Cypress**
 
-- 📫 How to reach me, **Email Address: delunarafael@yahoo.com, LinkedIn URL: https://www.linkedin.com/in/rafaeldeluna/**
+- 📫 How to reach me; **Email Address: delunarafael@yahoo.com, LinkedIn URL: https://www.linkedin.com/in/rafaeldeluna/**
 
 - 📄 Know about my experiences: [https://www.codecademy.com/enrolled/paths/learn-how-to-build-websites](https://www.codecademy.com/enrolled/paths/learn-how-to-build-websites)
 
