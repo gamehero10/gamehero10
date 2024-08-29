@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any future projects that involve frontend and backend web development.**
 
-- 🤝 I’m looking for help with **how to successfully pass the interview process.**
+- 🤝 I’m looking for help on how to **how to successfully pass the interview process.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gamehero10?tab=repositories](https://github.com/gamehero10?tab=repositories)
 
