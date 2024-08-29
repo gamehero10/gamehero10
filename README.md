@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **email address: delunarafael@yahoo.com, LinkedIn URL: https://www.linkedin.com/in/rafaeldeluna/**
 
-- 📄 Know about my experiences [https://www.codecademy.com/enrolled/paths/learn-how-to-build-websites](https://www.codecademy.com/enrolled/paths/learn-how-to-build-websites)
+- 📄 Know about my experiences: [https://www.codecademy.com/enrolled/paths/learn-how-to-build-websites](https://www.codecademy.com/enrolled/paths/learn-how-to-build-websites)
 
-- ⚡ Fun fact **I enjoy swimming, watching sports, and playing video games.**
+- ⚡ Fun fact: **I enjoy swimming, watching sports, and playing video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
