@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rafael Deluna</h1>
-<p align="center">I am looking to become a full stack web developer. I am very passionate about building/creating websites and solving real life problems.</p>
+<p align="center">I am looking to become a full stack web developer. I am very passionate about building/creating websites and solving real life problems. Can't wait to step into the tech industry!!!!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamehero10&label=Profile%20views&color=0e75b6&style=flat" alt="gamehero10" /> </p>
 
