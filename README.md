@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamehero10" alt="gamehero10" /></a> </p>
 
-- 🔭 I’m currently working on **Sprint # 8 of the Full Stack Web Development Course on BloomTech.**
+- 🔭 I’m currently working on **Sprint #'s 21-24 of the Full Stack Web Development Course on BloomTech. I have completed all three labs and I am now polishing up my career artifacts for submission.**
 
-- 🌱 I’m currently learning **technical exam preparation and improving my Github profile.**
+- 🌱 I’m currently learning **technical exam preparation and improving my Github profile, resume, and LinkedIn profile.**
 
 - 👯 I’m looking to collaborate on **any future projects that involve frontend and backend web development.**
 
-- 🤝 I’m looking for help with **looking to get a better score on the GCA.**
+- 🤝 I’m looking for help with **how to successfully pass the interview process.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gamehero10?tab=repositories](https://github.com/gamehero10?tab=repositories)
 
