@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamehero10" alt="gamehero10" /></a> </p>
 
-- 🔭 I’m currently working on **Sprint #'s 21-24 of the Full Stack Web Development Course on BloomTech. I have completed all three labs and I am now polishing up my career artifacts for submission.**
+- 🔭 I’m currently working on **job hunting and looking for the perfect role that fits me. I have completed and now a graduate of the Full Stack Web Development program on BloomTech which is a coding bootcamp.**
 
 - 🌱 I’m currently learning **technical exam preparation and improving my Github profile, resume, and LinkedIn profile.**
 
